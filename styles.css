@@ -2,26 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: #000; /* Ganti background halaman menjadi hitam */
-    color: #fff; /* Ganti warna teks default menjadi putih */
-}
-
-.navbar {
-    background-color: #000; /* Ubah latar belakang navbar menjadi hitam */
-    margin-bottom: 0; /* Hapus margin bawah navbar */
-    padding: 0; /* Hapus padding tambahan pada navbar */
-}
-
-.navbar-brand {
-    font-size: 1.5rem;
-}
-
-.nav-link {
-    color: #fff !important; /* Warna link navbar menjadi putih */
-}
-
-.nav-link:hover {
-    color: #ff6600 !important; /* Warna hover link navbar menjadi orange */
+    background: #000; /*background halaman menjadi hitam */
+    color: #fff; /*warna teks default menjadi putih */
 }
 
 #home {
