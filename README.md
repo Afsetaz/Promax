@@ -1,1 +1,1 @@
-belum sepenuhnya jadi dan benar
+masih belajar aku
