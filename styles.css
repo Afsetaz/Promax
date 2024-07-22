@@ -137,27 +137,19 @@ body {
 
 .step-number {
     display: inline-block;
-    background: #ff6600; /* Warna step number menjadi orange */
-    color: #fff;
-    border-radius: 50%;
+    color: #ff6600;
     width: 2rem;
     height: 2rem;
     line-height: 2rem;
     text-align: center;
     margin-right: 1rem;
-    font-size: 1.2rem;
+    font-size: 3.3rem;
     font-weight: bold;
 }
 
 .steps-list {
-    display: flex;
     flex-direction: column;
     gap: 1.5rem;
-}
-
-.step {
-    display: flex;
-    align-items: flex-start;
 }
 
 .step h3 {
@@ -203,4 +195,3 @@ footer {
     color: #fff;
     padding: 1rem 0;
 }
-
