@@ -63,6 +63,17 @@ body {
     z-index: 1; /* Pastikan konten berada di atas bentuk abstrak */
 }
 
+.logo-title {
+    align-items: center;
+    justify-content: center;
+    gap: rem;
+}
+
+.logo {
+    width: 100px; /* Ukuran logo */
+    height: 100px;
+}
+
 #about {
     background: #000; /* Background hitam untuk bagian about */
     padding: 4rem 0;
